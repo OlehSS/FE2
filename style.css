@@ -1,0 +1,18 @@
+div{
+    width: 400px;
+    height: 200px;
+}
+
+img{
+    width: 30px;
+    margin: 2px;
+}
+
+.table1, tr, th{
+    border: 2px solid black;
+}
+
+.div_2{
+    width: 400px;
+    height: 400px;
+}
